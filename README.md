@@ -10,7 +10,7 @@
 
 ## 🌐 Connect with Us :
 <p align="left">
-<a href="https://www.youtube.com/c/https://youtube.com/TechQuesters-Ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@TechQuesters-Ai" height="30" width="40" /></a>
+<a href="https://https://www.youtube.com/@TechQuesters-Ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@TechQuesters-Ai" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tech_questers2k24?igsh=cHp0NnByMXNiMW16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tech_questers2k24?igsh=cHp0NnByMXNiMW16" height="30" width="40" /></a>
 <a href="https://t.me/TechQuesters" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="https://t.me/TechQuesters" height="30" width="40" /></a>
 
